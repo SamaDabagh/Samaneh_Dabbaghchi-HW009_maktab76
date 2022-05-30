@@ -1,0 +1,161 @@
+*/{
+    box-sizing: border-box;
+}
+.main-first_part{
+    height: 900px;
+    background-color: #F9F9F9;
+}
+/* .btn-primary:hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #F9F9F9;
+    font-size: 20px;
+} */
+.color-purple{
+    color: #6d22ff !important;
+
+}
+.main-h1{
+    font-size: 68px;
+}
+.form-control{
+    border-radius: 0;
+    height: auto;
+    width: 50%;
+}
+.main-btn_email{
+border-radius: 0;
+height: auto;
+}
+.main-second_part{
+    height: 1000px;
+}
+.main-second_part_circle-icon{
+    width: 45px;
+    height: 45px;
+        border-radius: 50% !important;
+        
+}
+.bg-color-purple{
+ 
+    background-color: #6d22ff
+}
+main-second_part_Upwork-logo{
+
+}
+.woocommerce{
+    position:absolute;
+
+
+
+}
+.main-second_part_Upwork-logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50% !important;
+    background-color: #6ed843;
+        
+}
+.bg-color-light{
+    background-color: #F9F9F9;
+
+}
+.bg-color_deeper_purple{
+    background-color: #5549CF;
+}
+.main-second_part_card{
+    width: 40%;
+}
+.main-second_part_btn {
+   border: 1px solid #6d22ff !important;
+    margin-top: -40px;
+    margin-bottom: 100px;
+
+}
+.main-second_part_btn:hover{
+    border-bottom: 1px solid #F9F9F9;
+    background-color: #6d22ff  !important;
+    color: #F9F9F9  !important;
+  
+
+}
+.main-third_part{
+    height: 700px!important;
+    
+}
+.main-third_part_left {
+    height: 400px;
+    width: 630px;
+    margin-top: 200px;
+
+}
+.main-third_part_posTop{
+    width: 50%;
+    height: 20%;
+    top: -30px;
+    right: -75px;
+} 
+.main-third_part_posBot{
+    width: 60%;
+    height: 20%;
+    bottom: 10px;
+    right: -75px;
+}
+.main-third_part_posBot_icon{
+    width: 15%;
+height: 60%;
+
+}
+.bi-plus{
+    padding-top: 5px;
+}
+#facebook-transaction::placeholder{
+    color: gray;
+    padding-right: 10px;
+    font-weight: bold;
+  
+
+}
+.main-third_part_circle{
+    width: 120px;
+    height: 120px;
+    border-radius: 50% !important;
+background-color: #6d22ff;
+top: -30px;
+left: 0px;
+}
+.main-third_part_posMid{
+    width: 50%;
+        height: 20%;
+    top: 150px;
+        left: 150px;
+        border-style: dashed;
+        border-color: gray;
+        
+       
+}
+.color-light-green {
+    color:#5EDC89;
+
+}
+.main-third_part_right {
+    height: 400px;
+    width: 630px;
+    margin-top: 200px;
+margin-left: 100px;
+}
+.main-third_part_btn {
+    border: 1px solid #6d22ff !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    left: 50px;
+    bottom: -80px;
+}
+
+.main-third_part_btn:hover {
+    border-bottom: 1px solid #F9F9F9;
+    background-color: #6d22ff !important;
+    color: #F9F9F9 !important;
+
+
+}
